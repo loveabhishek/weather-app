@@ -113,10 +113,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 👨‍💻 Author
 Your Name
 
-GitHub: @yourusername
-LinkedIn: Your LinkedIn
-Portfolio: yourportfolio.com
-Email: your.email@example.com
+GitHub: @loveabhishek
+LinkedIn: http://www.linkedin.com/in/abhishek-kumar-b0a995255
+Portfolio: https://portfolio-demo-khaki.vercel.app/
+Email: itz.abhishekkumar9@gmail.com
 
 🙏 Acknowledgments
 
