@@ -1,7 +1,7 @@
 🌤️ WeatherPro - Professional Weather App
 A modern, responsive weather application built with vanilla HTML, CSS, and JavaScript. Features a clean UI design with real-time weather data, 5-day forecasts, and geolocation support.
 🚀 Live Demo
-View Live Demo ← Replace with your actual URL
+View Live Demo ← https://weather-app-orcin-eight-41.vercel.app/
 📱 Features
 
 Real-time Weather Data: Current weather conditions for any city worldwide
@@ -73,7 +73,7 @@ GitHub Pages
 Push your code to GitHub
 Go to Settings → Pages
 Select source branch (main/master)
-Your app will be available at: https://yourusername.github.io/weather-app
+Your app will be available at: https://loveabhishek.github.io/weather-app
 
 Vercel (Recommended)
 
